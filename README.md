@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi%20Everyone!&fontColor=000000&fontSize=50&fontAlign=50&fontAlignY=50)
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; width: 100%;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; width: 100%;">
   <a href="https://www.linkedin.com/in/sakshi-vats-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </div>
+
 
 
 
