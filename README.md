@@ -32,9 +32,7 @@ I'm a Computer Science Engineering graduate passionate about **technology, probl
 
 
 ![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiVats27&show_icons=true&theme=codeSTACKr)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakshiVats27&theme=codeSTACKr)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiVats27&layout=compact&theme=codeSTACKr)
 
 
