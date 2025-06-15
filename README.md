@@ -30,20 +30,9 @@ I'm a Computer Science Engineering graduate passionate about **technology, probl
 
 **Let's connect and grow together!**
 
-![snake gif](https://github.com/SakshiVats27/SakshiVats27/blob/output/github-contribution-grid-snake.svg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SakshiVats27&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiVats27&show_icons=true&theme=gradient)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiVats27&show_icons=true&theme=github_dark&hide_border=true)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshiVats27&theme=vue-dark&show_icons=true&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SakshiVats27&theme=vue-dark&hide_border=true" width="45%"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiVats27&layout=compact&theme=vue-dark&hide_border=true" width="50%"/>
-</div>
 
 
 
