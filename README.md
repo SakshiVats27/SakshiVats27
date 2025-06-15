@@ -31,7 +31,8 @@ I'm a Computer Science Engineering graduate passionate about **technology, probl
 **Let's connect and grow together!**
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiVats27&show_icons=true&theme=gradient)
+![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiVats27&show_icons=true&theme=tokyonight)
+
 
 
 
