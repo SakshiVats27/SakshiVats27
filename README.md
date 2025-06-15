@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi%20Everyone!&fontColor=000000&fontSize=50&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hi%20Everyone!&fontColor=000000&fontSize=50&fontAlign=50&fontAlignY=50)
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; width: 100%;">
   <a href="https://www.linkedin.com/in/sakshi-vats-/" target="_blank">
