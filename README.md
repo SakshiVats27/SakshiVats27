@@ -1,6 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20Everyone!&fontColor=000000&fontSize=50&fontAlign=50&fontAlignY=50)
 
+## Hi, I am Sakshi Vats
+
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; width: 100%;">
   <a href="https://www.linkedin.com/in/sakshi-vats-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -31,10 +33,6 @@ I'm a Computer Science Engineering graduate passionate about **technology, probl
 **Let's connect and grow together!**
 
 
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiVats27&show_icons=true&theme=codeSTACKr)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakshiVats27&theme=codeSTACKr)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiVats27&layout=compact&theme=codeSTACKr)
 
 
 
