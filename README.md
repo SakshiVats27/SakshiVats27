@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </div>
+<br>
 
 I'm a Computer Science Engineering graduate passionate about technology, problem-solving, and continuous learning. I love working on real-world projects, solving coding challenges, and exploring new tools in the development world. I enjoy coding in C++, Java and web technologies. I am currently enhancing my skills in full-stack development & DSA. I am always curious and open to collaboration on exciting tech projects!
 
