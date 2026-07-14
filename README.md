@@ -26,9 +26,31 @@
 </div>
 <br>
 
-I'm a Computer Science Engineering graduate passionate about **technology, problem-solving, and continuous learning**. I love working on real-world projects, solving coding challenges, and exploring new tools in the development world. I enjoy coding in **C++, Java and web technologies**. I am currently enhancing my skills in **full-stack development & DSA**. I am always curious and open to collaboration on exciting tech projects!
+I'm currently working as a Technical Consulting Engineer at Cisco, about a year already into this role. I spend my days untangling high-severity issues in enterprise networks and, somewhere between escalations, building tools to make that work less repetitive for the people doing it - including future-me.  
 
-**Let's connect and grow together!**
+Over the past year, my role has taught me much more than just my work - it has shown me how large-scale systems behave, how engineers collaborate to solve production issues, and how automation can eliminate repetitive work.
+
+While my day job revolves around enterprise networking and automation, my long-term goal is to grow as a Software Development Engineer. I enjoy building backend applications, exploring AI-powered solutions, and continuously improving my problem-solving skills through Data Structures & Algorithms.
+
+## 🌱 What I'm currently doing
+
+- Working on enterprise support - log analysis, case routing, workflow tooling - alongside automation.
+- Learning backend development and building personal side projects to stay sharp outside of my day-to-day.
+- Sharpening DSA, Learning system design, scalable backend development, and software engineering best practices.
+- Learning AI fundamentals, one certification at a time.
+
+## 💭 One year into corporate - what actually changed
+
+Technical skills aside, the bigger shift has been in how I approach problems. I've learned to sit with a problem I don't immediately understand instead of panicking about it - high-severity production issues don't wait for you to feel ready, communicate effectively across teams, take ownership of problems, and design solutions that make everyday work easier for others. I've gotten better at explaining technical things to people who aren't looking at the same screen as me, which turned out to matter more than I expected.
+
+More importantly, I've realized that being good at troubleshooting other people's systems and being an engineer who builds things are related but different muscles. I'm actively working on strengthening the second one.
+
+## 🚀 What I'm aspiring to
+I'm working toward moving into a software development role where I get to build products end-to-end, solve challenging engineering problems, and contribute to systems that scale. Long-term, I want to be someone who can take an ambiguous problem, break it down, and ship something real and useful for it.
+
+Outside work, you'll usually find me learning something new, reading books, articles, listening to podcasts, reading failure stories, building personal projects a bit of social media, sharing my thoughts, experimenting with colors, creating new artwork or exploring places :)
+
+## **If you've made it this far, thanks for stopping by. Let's connect and grow together!🌱🌱**
 
 
 
